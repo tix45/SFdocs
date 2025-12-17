@@ -2,7 +2,7 @@
 title: "SquareFox Documentation"
 description: "Комплексная документация конфликтов и нарушений в игровом сообществе SquareFox"
 date: 2025-12-17
-aliases: ["/", "/index", "/главная"]
+aliases: ["/", "/index", "/Главная"]
 type: "index"
 ---
 
@@ -356,7 +356,7 @@ body {
     <h2 class="category-header">📖 История Арбуза</h2>
     <div class="category-content">
       <div class="document-card">
-        <h3 class="document-title"><a href="main_folder/Привет, я Арбуз.md">Привет, я Арбуз</a></h3>
+        <h3 class="document-title"><a href="Главная/Привет, я Арбуз.md">Привет, я Арбуз</a></h3>
         <div class="document-meta">
           <span>📅 Сентябрь - Декабрь 2025</span>
         </div>
@@ -372,7 +372,7 @@ body {
     <h2 class="category-header">⚠️ Серьёзные Обвинения</h2>
     <div class="category-content">
       <div class="document-card">
-        <h3 class="document-title"><a href="main_folder/Семья с педофилами.md">Семья с педофилами</a></h3>
+        <h3 class="document-title"><a href="Главная/Семья с педофилами.md">Семья с педофилами</a></h3>
         <div class="document-meta">
           <span>📅 Ноябрь 2025</span>
         </div>
@@ -387,7 +387,7 @@ body {
     <h2 class="category-header">👥 Конфликты с Администрацией</h2>
     <div class="category-content">
       <div class="document-card" id="moderator-conflict">
-        <h3 class="document-title"><a href="main_folder/Конфликт с Модером.md">Конфликт с Модером</a></h3>
+        <h3 class="document-title"><a href="Главная/Конфликт с Модером.md">Конфликт с Модером</a></h3>
         <div class="document-meta">
           <span>📅 29 ноября 2025</span>
         </div>
@@ -399,7 +399,7 @@ body {
       </div>
   <div> 
       <div class="document-card" id="milavi-conflict">
-        <h3 class="document-title"><a href="main_folder/Конфликт с Милави.md">Конфликт с Милави</a></h3>
+        <h3 class="document-title"><a href="Главная/Конфликт с Милави.md">Конфликт с Милави</a></h3>
         <div class="document-meta">
           <span>📅 29 ноября 2025</span>
         </div>
@@ -410,7 +410,7 @@ body {
         </div>
       </div>
       <div class="document-card">
-        <h3 class="document-title"><a href="main_folder/Конфликт с Мостом.md">Конфликт с Мостом</a></h3>
+        <h3 class="document-title"><a href="Главная/Конфликт с Мостом.md">Конфликт с Мостом</a></h3>
         <div class="document-meta">
           <span>📅 Декабрь 2025</span>
         </div>
@@ -427,7 +427,7 @@ body {
     <h2 class="category-header">🚫 Бан Инциденты</h2>
     <div class="category-content">
       <div class="document-card" id="mass-ban">
-        <h3 class="document-title"><a href="main_folder/Забаненная семёрка.md">Забаненная семёрка</a></h3>
+        <h3 class="document-title"><a href="Главная/Забаненная семёрка.md">Забаненная семёрка</a></h3>
         <div class="document-meta">
           <span>📅 11 декабря 2025, 14:31 МСК</span>
         </div>
@@ -439,7 +439,7 @@ body {
       </div>
       <div> 
       <div class="document-card" id="personal-ban">
-        <h3 class="document-title"><a href="main_folder/МОЙ БАНан.md">МОЙ БАНан</a></h3>
+        <h3 class="document-title"><a href="Главная/МОЙ БАНан.md">МОЙ БАНан</a></h3>
         <div class="document-meta">
           <span>📅 29 ноября 2025</span>
         </div>
@@ -451,7 +451,7 @@ body {
       </div>
       <div> 
       <div class="document-card">
-        <h3 class="document-title"><a href="main_folder/Дополнение к БАНану.md">Дополнение к БАНану</a></h3>
+        <h3 class="document-title"><a href="Главная/Дополнение к БАНану.md">Дополнение к БАНану</a></h3>
         <div class="document-meta">
           <span>📅 После 29 ноября 2025</span>
         </div>
@@ -468,7 +468,7 @@ body {
     <h2 class="category-header">💰 Лор за деньги?</h2>
     <div class="category-content">
       <div class="document-card">
-        <h3 class="document-title"><a href="main_folder/Мерзость.md">Мерзость</a></h3>
+        <h3 class="document-title"><a href="Главная/Мерзость.md">Мерзость</a></h3>
         <div class="document-meta">
           <span>📅 16 декабря 2025</span>
         </div>
@@ -485,7 +485,7 @@ body {
     <h2 class="category-header">🛡️ Проблемы Модерации</h2>
     <div class="category-content">
       <div class="document-card">
-        <h3 class="document-title"><a href="main_folder/Отношение модератора к комьюнити.md">Отношение модератора к комьюнити</a></h3>
+        <h3 class="document-title"><a href="Главная/Отношение модератора к комьюнити.md">Отношение модератора к комьюнити</a></h3>
         <div class="document-meta">
           <span>📅 Декабрь 2025</span>
         </div>
@@ -524,10 +524,10 @@ body {
     <h2>🔗 Связанные документы и ссылки</h2>
     <p>Эти документы связаны между собой и содержат перекрёстные ссылки:</p>
     <ul>
-      <li><strong>Конфликт с Модером</strong> → <a href="main_folder/Конфликт с Милави.md">Конфликт с Милави</a> (продолжение)</li>
-      <li><strong>МОЙ БАНан</strong> → <a href="main_folder/Дополнение к БАНану.md">Дополнение к БАНану</a> (дополнительные факты)</li>
-      <li><strong>Забаненная семёрка</strong> → упоминает <a href="main_folder/Семья с педофилами.md">предыдущие конфликты</a></li>
-      <li><strong>Все конфликты</strong> → связаны с <a href="main_folder/Привет, я Арбуз.md">основной историей</a></li>
+      <li><strong>Конфликт с Модером</strong> → <a href="Главная/Конфликт с Милави.md">Конфликт с Милави</a> (продолжение)</li>
+      <li><strong>МОЙ БАНан</strong> → <a href="Главная/Дополнение к БАНану.md">Дополнение к БАНану</a> (дополнительные факты)</li>
+      <li><strong>Забаненная семёрка</strong> → упоминает <a href="Главная/Семья с педофилами.md">предыдущие конфликты</a></li>
+      <li><strong>Все конфликты</strong> → связаны с <a href="Главная/Привет, я Арбуз.md">основной историей</a></li>
     </ul>
   </div>
 
