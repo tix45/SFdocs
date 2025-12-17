@@ -2,7 +2,7 @@
 title: "SquareFox Documentation"
 description: "Комплексная документация конфликтов и нарушений в игровом сообществе SquareFox"
 date: 2025-12-17
-aliases: ["/", "/index", "/Главная"]
+aliases: ["/index", "/Главная"]
 type: "index"
 ---
 
